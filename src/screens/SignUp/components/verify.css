@@ -1,0 +1,12 @@
+.email{
+        width: 550px;
+        position: relative;
+        left: 80px !important;
+        
+}
+.form{
+    width: 100%;
+}
+.submit{
+    width: 200px !important;
+}

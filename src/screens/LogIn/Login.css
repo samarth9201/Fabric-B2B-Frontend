@@ -1,0 +1,54 @@
+.right-side{
+   
+    background: linear-gradient(to left, #66ffff -21%, #ffffff 103%);
+
+}
+.left-side{
+    background-color: white;
+}
+.title{
+    
+ color: black !important;   
+}
+.logo{
+    position: relative;
+    width: 500px;
+    left: 300px !important;
+}
+.below{
+    position: relative;
+    left: 200px !important;
+    border-radius: 10px;
+}
+.textF{
+    background-color: #ffff;
+    border-radius: 5%;
+    width: 550px;
+    margin-bottom: 10px !important;
+    padding: 5%;
+    margin-left: 10% !important;
+
+}
+.submit{
+    position: absolute;
+    width: 151px;
+    height: 50px;
+    right: 40px;
+    left: 470px;
+    margin: 5px !important;
+    background: #818181;
+    border-radius: 13px;
+}
+.text-below{
+    
+    color: black !important;
+    text-align: center;
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+}
+.link{
+    color: black;
+}

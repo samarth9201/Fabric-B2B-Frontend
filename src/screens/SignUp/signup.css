@@ -1,0 +1,73 @@
+.title{
+    
+    color: yellow;
+    font-size: 45px;
+}
+.titles{
+    
+position: relative;
+left: 300px !important;
+}
+.textf{
+    background-color: #ffff;
+    border-radius: 5%;
+    width: 550px;
+    margin-bottom: 20px !important;
+    padding: 5%;
+    margin-left: 10% !important;
+    left: 35px;
+    border-color: rebeccapurple;
+}
+.rightSide{
+    
+    background: linear-gradient(to left, #66ffff -21%, #ffffff 103%);
+}
+.error{
+    color: red;
+}
+.submit{
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    right: 40px;
+    left: 300px;
+    margin: 5px !important;
+    background:red !important;
+    border-radius: 13px;
+  
+    font-weight: 300 !important;
+}
+.avatar{
+    background: linear-gradient(45deg, #FE6B8B 30%, #FF8E53 90%);
+    position: relative;
+    left: 350px;
+    
+
+}
+.textFeilds{
+    border-radius: 5%;
+    width: 550px;
+    margin-bottom: 20px !important;
+    padding: 5%;
+    margin-left: 10% !important;
+}
+.right{
+    position: relative;
+    top: 120px !important;
+}
+.submits{
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    right: 40px;
+    left: 350px;
+    width: 250px !important;
+    margin-bottom: 30px !important;
+    background: linear-gradient(45deg, #FE6B8B 30%, #FF8E53 90%);
+
+
+}
+.icon{
+    position: relative;
+
+}

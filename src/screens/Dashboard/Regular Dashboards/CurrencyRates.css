@@ -1,0 +1,53 @@
+#parent {
+    display: flex; 
+    justify-content: space-around; 
+    height: 100vh;
+     flex-wrap: wrap;
+}
+#chart {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    height: 500px;
+}
+#input
+{
+    
+    width: 50% ;
+    /* background: rgb(9,21,121);
+background: linear-gradient(90deg, rgba(9,21,121,0.7091211484593838) 0%, rgba(80,17,255,0.9108018207282913) 100%); */
+    
+    background: linear-gradient(to left, #66ffff -21%, #ffffff 103%);
+}
+#heading{
+    text-align: center;
+}
+#currencyinput
+{
+    display: flex; 
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 60px;
+    width: 100%;
+}
+#ratebutton{
+    margin-top: 50px;
+    text-align: center;
+}
+.arr {
+height: 60px;
+width:100px;
+border: 2px solid black;
+border-radius: 10px;
+margin-top: 20px;
+
+}
+label,select {
+    display: block;
+}
+#h3 {
+    text-align:center;
+    font-size: 50px;
+    margin-top: 50px;
+}

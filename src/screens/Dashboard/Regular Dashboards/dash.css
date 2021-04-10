@@ -1,0 +1,30 @@
+*{
+    overflow: hidden;
+    
+}
+
+.msgBox{
+    width: 64.1% !important;
+}
+.textFeild{
+    margin-right: 10px !important;
+    margin-left: 10px !important;
+}
+
+.submit1{
+    position: absolute;
+    width: 66.1% !important;
+    height: 50px;
+    right: 40px;
+    margin-top: 20px !;
+    background: linear-gradient(45deg, #FE6B8B 30%, #FF8E53 90%) !important;
+    margin-top: 50px !important;
+    background: #818181;
+    border-radius: 13px;
+}
+.form{
+    position: relative;
+    left: 330px !important;
+    height: 100vh;
+    top: 80px;
+}
